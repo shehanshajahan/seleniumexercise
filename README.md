@@ -26,6 +26,7 @@ driver.quit()
 
 ```
 <img width="1917" height="1138" alt="surya" src="https://github.com/user-attachments/assets/1122f6e0-904d-4701-8d9a-b63854cef249" />
+
 ## 2. Go to products page in Saucedemo
 ```
 from selenium import webdriver
